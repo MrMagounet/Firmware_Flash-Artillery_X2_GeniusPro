@@ -45,10 +45,10 @@
       détail comment réussir à Flasher votre imprimante 3D Artillery équipé de
       la Carte Mère Ruby.</p>
     <p dir="auto">-------------------------------------------------------------------------</p>
-    <p dir="auto"><span style="box-sizing: border-box; color: rgb(231, 76, 60);">Déjà
+    <p dir="auto"><span style="box-sizing: border-box; color: rgb(231, 76, 60);"><b>
         je tiens à rappeler qu'il y a toujours un risque potentiel de bloquer
         votre carte mère, si un coupure de courant ou une erreur de manipulation
-        est éffectué.</span></p>
+        est éffectué.</b></span></p>
     <p dir="auto"><span style="box-sizing: border-box; color: rgb(231, 76, 60);">Je
         ne peux être tenu responsable de tous dommage occasionné, même si&nbsp;
         il y a peu de risque.</span></p>
