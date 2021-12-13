@@ -13,11 +13,8 @@
     <h1 dir="auto">French Version / English Down of this page</h1>
     <p></p>
     <br>
-    <table style="width: 100%; height: 230px;" border="0">
-      <tbody>
-        <tr>
-          <td>Si vous souhaitez me payer un café ou me soutenir : <a href="https://www.paypal.com/paypalme/MrMagounet"
-              target="_blank"> Paypalme/MrMagounet<br>
+    <p>Si vous souhaitez me payer un café ou me soutenir : <a href="https://www.paypal.com/paypalme/MrMagounet"
+              target="_blank"> Paypalme/MrMagounet<br></P>
             </a>
             <p><a target="_blank" rel="noopener noreferrer"><img src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2021_02/logo.png.7b007150fa09975916925b46c74c4133.png"
                   style="max-width: 100%;" width="175" align="right"></a></p>
@@ -30,10 +27,6 @@
             <p dir="auto"><span style="color: #333399;"><span style="color: #330033;">Vidéo
                   Youtube sur ce Tuto avec Flash Artillery X2 : <a href="https://www.youtube.com/watch?v=SnRNQQoOKaw&amp;t=99s">3DK
                     Maker</a></span></span></p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
     <br>
     <h2 dir="auto"><a id="user-content-marlin-20" class="anchor" href="#marlin-20"><svg
           class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16"></svg></a><u>Comment
