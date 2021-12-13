@@ -17,10 +17,10 @@
     <table style="width: 800px;" border="0">
       <tbody>
         <tr>
-          <td>Si vous souhaitez me payer un café ou me soutenir :<b> </b><a href="https://www.paypal.com/paypalme/MrMagounet"
-              target="_blank">Paypalme/MrMagounet<br>
+          <td>Si vous souhaitez me payer un café ou me soutenir :
+            <a href="https://www.paypal.com/paypalme/MrMagounet" target="_blank"> Paypalme/MrMagounet<br>
             </a>
-            <p><a target="_blank" rel="noopener noreferrer"><img src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2021_02/logo.png.7b007150fa09975916925b46c74c4133.png"
+            <p><a target="_blank" rel="noopener noreferrer"><img src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2021_02/logo.png.7b007150fa09975916925b46c74c4133.png"
                   style="max-width: 100%;" width="175" align="right"></a></p>
             <p dir="auto">Cela me permettra de continué à aider la communauté.</p>
             <p dir="auto"><span style="color: #333399;"><span style="color: #330033;">Liens
@@ -34,7 +34,7 @@
       </tbody>
     </table>
     <br>
-    <h2 dir="auto"><a id="user-content-marlin-20" class="anchor" href="#marlin-20"><svg
+    <h2 dir="auto"><a id="user-content-marlin-20" class="anchor" href="#marlin-20"><svg
           class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16"></svg></a><u>Comment
         Flasher la carte mère Artillery Ruby</u></h2>
     <p dir="auto">Pour pouvoir activé de nouvelle fonction sur les nouvelle
@@ -62,7 +62,7 @@
     <p><br>
     </p>
     <p> </p>
-    <h2 dir="auto"><a id="user-content-example-configurations" class="anchor" href="#example-configurations"><svg
+    <h2 dir="auto"><a id="user-content-example-configurations" class="anchor" href="#example-configurations"><svg
           class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16"></svg></a><u>Marlin
         2.0.9.2 MrMagoo Fonctions et améliorations </u></h2>
     <p dir="auto"><u>Voici la liste des optimisations et ajouts :</u></p>
@@ -113,7 +113,7 @@
         PrusaSlicer &amp; SuperSlicer (object cancelation)</li>
       <p></p>
     </ul>
-    <h2 dir="auto"><a id="user-content-building-marlin-20" class="anchor" href="#building-marlin-20"><svg
+    <h2 dir="auto"><a id="user-content-building-marlin-20" class="anchor" href="#building-marlin-20"><svg
           class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16"></svg></a><u>Firmware
         TFT pour le MKS TFT28</u></h2>
     <p dir="auto">Je proposerais des firmware TFT pré-configuré, mais<b>
